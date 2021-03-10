@@ -1,4 +1,4 @@
-#Firebase Intro
+# Firebase Intro
 
 Basic Application built as an introduction to Firebase
 
